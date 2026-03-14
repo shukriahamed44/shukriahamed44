@@ -30,26 +30,6 @@ Computer Engineer building AI-powered systems and robust software infrastructure
 
 ---
 
-## ARCHITECTURE & SYSTEMS (SELECTED WORK)
-
-### AUDIOH | AI-Assisted Transcription Workspace
-Converts spoken content into structured, project-based knowledge workspaces.
-* **Architecture:** React frontend, Spring Boot backend, SQL database.
-* **AI Integration:** OpenAI Whisper pipeline for high-fidelity transcription and summarization.
-* **Infrastructure:** Full CI/CD pipeline using Jenkins, containerized with Docker, provisioned via Terraform and Ansible on AWS.
-
-### SENTRA | Automated License Plate Identification System
-Real-time vehicle tracking and parking management system.
-* **Architecture:** Python Flask backend, React frontend, WebSockets for real-time state management.
-* **AI Integration:** YOLOv8 model fine-tuned specifically for Sri Lankan license plates.
-
-### AICADEMY | Intelligent Study Assistant
-Mobile platform leveraging LLMs for personalized educational workflows.
-* **Architecture:** Flutter mobile application, Firebase backend.
-* **AI Integration:** Native integration with Gemini API for dynamic content generation and study assistance.
-
----
-
 ## ENGINEERING PHILOSOPHY
 
 Design is not decoration; it is a strategic advantage in product building. My approach relies on:
