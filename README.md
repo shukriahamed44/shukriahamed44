@@ -21,7 +21,7 @@
     <a href="mailto:shukriahamed44@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://github.com/shukriahamed44">
+    <a href="www.linkedin.com/in/shukri-ahamed">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
