@@ -1,46 +1,19 @@
-Let's definitely upgrade it so it looks entirely unique to you, leaning into your AI and backend focus. 
-
-We can swap the DevOps-style YAML block for a sleek Python script, replace the plain text tech stack with highly visual dynamic skill icons, and use an animated typing SVG in your preferred typography (Bank Gothic) for the header. I'll also swap the badge styles to a more premium, chunky look and change the color theme to something more fitting for an AI engineer.
-
-Here is the new, customized `README.md`:
-
-```markdown
 <div align="center">
 
-  <a href="https://github.com/shukriahamed44">
-    <img src="https://readme-typing-svg.demolab.com?font=Bank+Gothic&weight=600&size=35&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&height=80&lines=SHUKRI+AHAMED;AI+%26+BACKEND+ENGINEER;CHAIRMAN+%26+MD+%40+ICONNECT;BUILDING+INSIDE+ANTIGRAVITY" alt="Typing SVG" />
-  </a>
+```text
+███████╗██╗  ██╗██╗   ██╗██╗  ██╗██████╗ ██╗
+██╔════╝██║  ██║██║   ██║██║ ██╔╝██╔══██╗██║
+███████╗███████║██║   ██║█████╔╝ ██████╔╝██║
+╚════██║██╔══██║██║   ██║██╔═██╗ ██╔══██╗██║
+███████║██║  ██║╚██████╔╝██║  ██╗██║  ██║██║
+╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
 
-  <p align="center">
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shukriahamed)
-    [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shukriahamed44@gmail.com)
-    [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shukriahamed44)
-  </p>
-
-</div>
-
----
-
-### 👨‍💻 `whoami`
-
-```python
-class Shukri(Developer):
-    def __init__(self):
-        self.name = "Shukri Ahamed"
-        self.location = "Sri Lanka"
-        self.education = "BSc Computer Engineering @ University of Ruhuna"
-        self.roles = ["Chairman & MD @ iConnect Mobile", "Vice Chair @ IEEE ComSoc UoR"]
-        self.current_focus = ["Python AI Infrastructure", "FastAPI", "Advanced MLOps"]
-        
-    def get_fun_fact(self):
-        return "Building an ML F1 podium predictor in my spare time 🏎️"
-
-    def execute_deployment(self):
-        # Note: Always remember to run terraform init!
-        return Environment.boot(mode="inside antigravity")
-```
-
----
+ █████╗ ██╗  ██╗ █████╗ ███╗   ███╗███████╗██████╗ 
+██╔══██╗██║  ██║██╔══██╗████╗ ████║██╔════╝██╔══██╗
+███████║███████║███████║██╔████╔██║█████╗  ██║  ██║
+██╔══██║██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██║  ██║
+██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝ 
 
 ### 🛠️ `Architecture & Stack`
 
